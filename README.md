@@ -1,7 +1,5 @@
 # Drupal-Docker-Enviroment
-<<<<<<< Updated upstream
 A Docker Drupal LAMP Environment with HTTPS enabled with Let's Ecrypt ready to integration or test enviroment
-=======
 
 A Docker Drupal LAMP Environment with HTTPS enabled with Let's Ecrypt ready to integration or test enviroment.
 
@@ -48,4 +46,4 @@ In docker-compose.yml in traefik label, you can set your own entry ports.
 
 
 Base project from wodby  https://github.com/wodby/docker4drupal
->>>>>>> Stashed changes
+
